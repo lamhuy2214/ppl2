@@ -1,0 +1,4 @@
+Function main() {
+            Let a;
+            Constant $b = 12;
+        }

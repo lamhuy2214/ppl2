@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],[VarDecl(Id(a),NoneType),ConstDecl(Id($b),NoneType,NumberLiteral(12.0))])])

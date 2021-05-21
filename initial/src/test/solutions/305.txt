@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x),NoneType,ArrayLiteral(BooleanLiteral(true),NumberLiteral(1.0),ArrayLiteral(NumberLiteral(2.0),NumberLiteral(5.0))))])
